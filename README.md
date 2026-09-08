@@ -43,6 +43,12 @@ This app is built around what these camcorders actually recorded:
 
 **The app is in English and Dutch** (it follows your Mac's language).
 
+<p align="center">
+<img src="docs/screenshot-clips.png" width="700" alt="Clips grouped by day, with thumbnails and the settings panel"><br>
+<img src="docs/screenshot-done.png" width="700" alt="Done screen with the result"><br>
+<sub>Try it with the <a href="sample/">sample clips</a> in this repository.</sub>
+</p>
+
 ## Install
 
 1. Download the latest zip from [Releases](../../releases/latest) and unzip it.

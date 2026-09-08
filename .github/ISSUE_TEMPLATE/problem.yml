@@ -1,0 +1,48 @@
+name: Problem report
+description: Something went wrong while converting or using the app
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting. The details below save a lot of back-and-forth.
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Menu MOD to MP4 → About, or the version shown in the update window.
+      placeholder: "1.2"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac model
+      placeholder: "macOS 15.6, MacBook Air M2"
+    validations:
+      required: true
+  - type: input
+    id: camera
+    attributes:
+      label: Camcorder model
+      description: The model that recorded the .MOD files, if you know it.
+      placeholder: "JVC Everio GZ-MS120"
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Technical details
+      description: On the progress or done screen, open "Technical details", select all, copy and paste here. Or attach the log from ~/Library/Logs/everio2mp4/.
+      render: text
+  - type: checkboxes
+    id: files
+    attributes:
+      label: Files
+      options:
+        - label: The .MOD files have a .MOI file next to them
+        - label: The folder is on the Mac's own disk (not only in iCloud or on a network drive)
