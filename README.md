@@ -37,7 +37,7 @@ This app is built around what these camcorders actually recorded:
 - **Nothing to install**: ffmpeg is bundled, the originals are never touched, and files that
   are still in iCloud are fetched first.
 
-**The app's interface is in Dutch** (English is planned). It was built for a family and shared here so others
+**The app is in English and Dutch** (it follows your Mac's language). It was built for a family and shared here so others
 with the same camcorders can use it.
 
 ## Install
