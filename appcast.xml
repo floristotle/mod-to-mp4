@@ -3,6 +3,17 @@
     <channel>
         <title>MOD to MP4</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 08 Sep 2026 15:00:32 +0200</pubDate>
+            <sparkle:version>202609081500</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Engelse vertaling (de app volgt de taal van je Mac). Nieuwe naam: MOD to MP4.
+]]></description>
+            <enclosure url="https://github.com/floristotle/mod-to-mp4/releases/download/v1.2/MOD-to-MP4-1.2.zip" length="62428763" type="application/octet-stream" sparkle:edSignature="oWxK0xM6DpxsIZ/ft11wXQqpkoXvNiPrKJXFlNuw6+cV+rAwyLrzOROM5S0XYHvjh9fqntnC2l06MbzFmr0ICw=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Tue, 08 Sep 2026 14:56:38 +0200</pubDate>
             <sparkle:version>202609081456</sparkle:version>
