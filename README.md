@@ -62,8 +62,8 @@ Adjust the options (each has an explanation), then click **Maak video** ("Make v
 
 ## About this project
 
-This is a hobby project, made to rescue one family's camcorder tapes-on-a-chip and shared in
-case it helps others with the same cameras. It is provided as is, without warranty. It was
+This is a hobby project, made to rescue old camcorder recordings and shared in case it
+helps others with the same cameras. It is provided as is, without warranty. It was
 built together with [Claude](https://claude.com) (Claude Fable 5.1, via Claude Code): the
 design decisions and testing were done by a human, most of the code was written by the model.
 Found a problem? Open an [issue](../../issues).
