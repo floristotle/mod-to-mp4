@@ -4,14 +4,14 @@
         <title>MOD to MP4</title>
         <item>
             <title>1.1</title>
-            <pubDate>Tue, 08 Sep 2026 14:55:26 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Tue, 08 Sep 2026 14:56:38 +0200</pubDate>
+            <sparkle:version>202609081456</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[Eerste uitgave met automatische updates. Nieuwe naam: MOD to MP4.
 ]]></description>
-            <enclosure url="https://github.com/floristotle/mod-to-mp4/releases/download/v1.1/MOD%20to%20MP4%201.1.zip" length="62419535" type="application/octet-stream" sparkle:edSignature="LbFDEbr34ipNQwVPkHUtJB8UpHCWEGPl8WWkcIjxE9Y20SZisfQFlZWfKhZptLw0mSMZN4zjscMsaNku2AC4CA=="/>
+            <enclosure url="https://github.com/floristotle/mod-to-mp4/releases/download/v1.1/MOD-to-MP4-1.1.zip" length="62419552" type="application/octet-stream" sparkle:edSignature="9UggMz35SORRqkvZTgPGzJ8MNCyuzg2zujcByoAOeuoqEigZch694zzgTISlIn2eWJFkCWV1ZsnUyQlkbpAlCw=="/>
         </item>
     </channel>
 </rss>
