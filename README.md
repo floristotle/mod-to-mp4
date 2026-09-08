@@ -17,7 +17,27 @@ files, which most converters ignore, deinterlaces to 50p, fixes the colour taggi
 these files look washed out in QuickTime, and sets the file dates to the recording time so
 Finder and Photos sort them correctly. Your original files are never modified.
 
-**The app's interface is in Dutch.** It was built for a family and shared here so others
+## Why not just use HandBrake or an online converter?
+
+Generic converters treat a `.MOD` file as "some MPEG-2 video" and throw the rest away.
+This app is built around what these camcorders actually recorded:
+
+- **Recording date and time** come from the `.MOI` sidecar file and end up in three places:
+  as chapter titles, burned into the picture (optional), and as the file's creation date,
+  so Finder and Photos sort your holiday in the right order.
+- **Correct aspect ratio.** Many of these cameras stored 16:9 only in the `.MOI`; other tools
+  show the footage squeezed into 4:3.
+- **One video per holiday, in order**, with a chapter per clip, so you can scrub through a
+  trip instead of 95 loose files. The clips are sorted by recording time, not by file name,
+  which wraps around on these cameras.
+- **Loss-free per-clip files** cut from the merged video on exact keyframes, if you want them.
+- **Colour that looks the same everywhere.** The source is tagged in a way QuickTime and VLC
+  interpret differently; the output is converted and tagged as BT.709.
+- **Proper deinterlacing** to 50 frames per second, so pans stay smooth.
+- **Nothing to install**: ffmpeg is bundled, the originals are never touched, and files that
+  are still in iCloud are fetched first.
+
+**The app's interface is in Dutch** (English is planned). It was built for a family and shared here so others
 with the same camcorders can use it.
 
 ## Install
