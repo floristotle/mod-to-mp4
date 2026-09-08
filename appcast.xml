@@ -4,14 +4,14 @@
         <title>MOD to MP4</title>
         <item>
             <title>1.3</title>
-            <pubDate>Tue, 08 Sep 2026 19:05:12 +0200</pubDate>
-            <sparkle:version>202609081905</sparkle:version>
+            <pubDate>Tue, 08 Sep 2026 19:08:00 +0200</pubDate>
+            <sparkle:version>202609081907</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[Nieuwe interne naam (com.floristotle). Wie 1.2 heeft: deze versie eenmalig opnieuw downloaden; daarna gaan updates weer automatisch.
+            <description><![CDATA[Nieuwe interne naam. Wie 1.2 heeft: deze versie eenmalig opnieuw downloaden; daarna gaan updates weer automatisch.
 ]]></description>
-            <enclosure url="https://github.com/floristotle/mod-to-mp4/releases/download/v1.3/MOD-to-MP4-1.3.zip" length="62428760" type="application/octet-stream" sparkle:edSignature="wSdnfEAk7GWPaSkuzVlC/T0Rbp4NQbKysuG4ILBknefgYUqcOhBwqrolHB+M2FpwHrk342Wsp1paenUci3a7Aw=="/>
+            <enclosure url="https://github.com/floristotle/mod-to-mp4/releases/download/v1.3/MOD-to-MP4-1.3.zip" length="62428316" type="application/octet-stream" sparkle:edSignature="DlPm1si2E/mpPj2kFPOE/LA2PEGn0TWCKBCsAgcmNTWoJiwJOQsgD32EUTrucTfh4QeFfOHN1W84zZHPn8KODg=="/>
         </item>
     </channel>
 </rss>
